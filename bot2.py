@@ -1,5 +1,3 @@
-#Lowkey Lokiii's id
-#<@150766748818341888>
 import discord
 import logging
 import asyncio
